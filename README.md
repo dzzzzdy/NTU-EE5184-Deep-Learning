@@ -1,11 +1,11 @@
 ## NTU-EE5184-Deep-Learning Assignments
 This repository contains all the assignments completed as part of the NTU-EE5184-Deep-Learning course. Each assignment is contained within its own folder with a README file providing details about the assignment.
 
-Assignments
-Assignment 1
-Assignment 2
-Assignment 3
-Assignment 4
+#Assignments
+*Assignment 1
+*Assignment 2
+*Assignment 3
+*Assignment 4
 
 Getting Started
 To get started with the assignments, clone the repository to your local machine:
