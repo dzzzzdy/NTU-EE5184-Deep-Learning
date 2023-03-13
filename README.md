@@ -2,8 +2,8 @@
 This repository contains all the assignments completed as part of the NTU-EE5184-Deep-Learning course. Each assignment is contained within its own folder with a README file providing details about the assignment.
 
 # Assignments
-* Assignment 1
-* Assignment 2
+* Assignment 1 COVID-19 Cases Prediction
+* Assignment 2 Phoneme Classification
 * Assignment 3
 * Assignment 4
 
