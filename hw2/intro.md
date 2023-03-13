@@ -8,6 +8,8 @@ Wiki: A unit of sound that can distinguish one word from another in a particular
 Model: LSTM + FC
 
 Tricks: 
+* Concat Frames
+
 * Orthogonal initialization: Initialize the weights of the gating units in your network to be orthogonal to one another. This can help prevent vanishing or exploding gradients.
 
 * Bias initialization: Set the bias of the forget gate to 1. This can help the network to remember information from previous time steps.
